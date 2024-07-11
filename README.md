@@ -1,4 +1,4 @@
-#Churn Analysis for Mobile Gaming 玩家流失分析
+# Churn Analysis for Mobile Gaming 玩家流失分析
 
 ## Intro 简介
 There is no clear definition of churning, and also it's not the reverse of the player retention. The widely accepted explanation for churn is "Players have been inactive for a certain period that they are highly unlikely to return." In real cases, the number here can be very different. 
